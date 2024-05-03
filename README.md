@@ -2,7 +2,7 @@
 <h5>Mobile App Developer<br>from Himachal Pradesh, India</h5>
 <p>
   Focused professional having excellent technical and communication skills, and
-  offering 4+ years of experience in Mobile apps development. Proficient in building 
+  offering 6+ years of experience in Mobile apps development. Proficient in building 
   high quality mobile apps using Kotlin for native apps and react-native for hybrid apps. 
   Specialize in thinking outside the box tofind unique solutions to difficult engineering problems.
 </p>
